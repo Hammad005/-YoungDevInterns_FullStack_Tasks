@@ -1,0 +1,105 @@
+[{
+  "_id": {
+    "$oid": "67d4aa592ba83337afb65fa7"
+  },
+  "title": "React",
+  "description": "Learn React with Advanced Learning Tools",
+  "faculty": "Fatima",
+  "createdAt": {
+    "$date": "2025-03-14T22:14:49.875Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-14T22:14:49.875Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d6b24400eab435bcf4685d"
+  },
+  "title": "JavaScript",
+  "description": "Learn JavaScript with best exercises. ",
+  "faculty": "Mubashir",
+  "createdAt": {
+    "$date": "2025-03-16T11:13:08.421Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-16T11:13:08.421Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d6b2a000eab435bcf46860"
+  },
+  "title": "TailwindCSS",
+  "description": "Tailwind CSS is a utility-first CSS framework that enables rapid UI development with customizable, responsive, and reusable styles directly in HTML.",
+  "faculty": "waqas",
+  "createdAt": {
+    "$date": "2025-03-16T11:14:40.385Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-16T11:14:40.385Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d6b2c500eab435bcf46863"
+  },
+  "title": "Express.Js",
+  "description": "Express.js is a minimal and flexible Node.js web framework that simplifies building server-side applications and APIs with middleware and routing.",
+  "faculty": "Mubashir",
+  "createdAt": {
+    "$date": "2025-03-16T11:15:17.460Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-16T11:15:17.460Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d6b2de00eab435bcf46876"
+  },
+  "title": "php",
+  "description": "PHP is a server-side scripting language designed for web development, enabling dynamic content, database interactions, and backend functionality.",
+  "faculty": "Rimsha",
+  "createdAt": {
+    "$date": "2025-03-16T11:15:42.009Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-16T11:15:42.009Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d8009bb4c535bd5c54dbbc"
+  },
+  "title": ".NET",
+  "description": "🔹 Understand .NET Core & Framework\n🔹 Learn C# and backend development\n🔹 Build modern web & desktop applications",
+  "faculty": "Taha",
+  "createdAt": {
+    "$date": "2025-03-17T10:59:39.489Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-17T10:59:39.489Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d802f8b4c535bd5c54dfc7"
+  },
+  "title": "UI/UX",
+  "description": "🔹 Learn the fundamentals of UI/UX design\n🔹 Explore wireframing & prototyping techniques\n🔹 Understand user research & usability testing\n🔹 Hands-on session with design tools",
+  "faculty": "Warda",
+  "createdAt": {
+    "$date": "2025-03-17T11:09:44.691Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-17T11:09:44.691Z"
+  },
+  "__v": 0
+}]

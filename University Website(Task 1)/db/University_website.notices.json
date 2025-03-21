@@ -1,0 +1,119 @@
+[{
+  "_id": {
+    "$oid": "67d7fd8cb4c535bd5c54d28c"
+  },
+  "title": "🚀PHP Workshop Announcement!🚀",
+  "content": "Join us for an exciting PHP Workshop where you'll learn the fundamentals of PHP, explore real-world applications, and enhance your web development skills!\n\n📅 Date: 12/6/25\n🕒 Time: 2pm - 4pm\n\n🔹 Hands-on coding sessions\n🔹 Best practices & real-world projects\n🔹 Q&A with industry experts\n\nDon't miss this opportunity to level up your PHP skills! Register now! 🎯\n\nFor more details, contact: SRO",
+  "postedBy": {
+    "$oid": "67d6a9d5936495d046c28bd9"
+  },
+  "createdAt": {
+    "$date": "2025-03-17T10:46:36.562Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-17T10:46:36.562Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d7feeeb4c535bd5c54d645"
+  },
+  "title": "🎨TailwindCSS Workshop!",
+  "content": "Boost your front-end skills with our Tailwind CSS Workshop! Learn how to build modern, responsive, and beautiful UIs with ease.\n\n📅 Date: 16/5/25\n🕒 Time: 2pm - 4pm\n\n🔹 Master utility-first styling\n🔹 Build responsive & sleek designs\n🔹 Hands-on coding & live demos\n\nDon't miss out—register now and take your web design to the next level! 🎯\n\nFor more details, contact: SRO",
+  "postedBy": {
+    "$oid": "67d6aa15936495d046c28bdd"
+  },
+  "createdAt": {
+    "$date": "2025-03-17T10:52:30.818Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-17T10:52:30.818Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d7ffcdb4c535bd5c54d9b0"
+  },
+  "title": "📱Flutter Workshop Announcement!",
+  "content": "Join our Flutter Workshop and learn how to build beautiful, high-performance cross-platform apps with ease!\n\n📅 Date: 23/5/25\n🕒 Time: 2pm - 4pm\n\n🔹 Learn Dart & Flutter fundamentals\n🔹 Build responsive, multi-platform apps\n🔹 Hands-on coding with real-world examples\n\nDon’t miss this chance to kickstart your Flutter journey! Register now and bring your app ideas to life! 💡✨\n\nFor more details, contact: SRO",
+  "postedBy": {
+    "$oid": "67d6a9bf936495d046c28bd5"
+  },
+  "createdAt": {
+    "$date": "2025-03-17T10:56:13.557Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-17T10:56:13.557Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d80059b4c535bd5c54db0d"
+  },
+  "title": ".NET Workshop Announcement! 💻",
+  "content": "Boost your development skills with our .NET Workshop and learn to build powerful, scalable applications!\n\n📅 Date: 1/6/25\n🕒 Time: 2pm - 4:30pm\n\n🔹 Understand .NET Core & Framework\n🔹 Learn C# and backend development\n🔹 Build modern web & desktop applications\n\nDon't miss this opportunity to enhance your .NET expertise! Register now and start coding with confidence! 🚀\n\nFor more details, contact: SRO",
+  "postedBy": {
+    "$oid": "67d40e60ccba3c46766e502e"
+  },
+  "createdAt": {
+    "$date": "2025-03-17T10:58:33.206Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-17T10:58:33.206Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d80166b4c535bd5c54dce4"
+  },
+  "title": "🎨UI/UX Design Workshop Announcement!",
+  "content": "Join our UI/UX Design Workshop and master the art of creating stunning, user-friendly interfaces!\n\n📅 Date: 5/6/25\n🕒 Time: 3pm - 5pm\n\n🔹 Learn the fundamentals of UI/UX design\n🔹 Explore wireframing & prototyping techniques\n🔹 Understand user research & usability testing\n🔹 Hands-on session with design tools\n\nDon’t miss this chance to enhance your design skills! Register now and start crafting intuitive user experiences! 🎨✨\n\nFor more details, contact: SRO",
+  "postedBy": {
+    "$oid": "67d6a997936495d046c28bd1"
+  },
+  "createdAt": {
+    "$date": "2025-03-17T11:03:02.113Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-17T11:03:02.113Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d8027cb4c535bd5c54ded7"
+  },
+  "title": "📢 Modular Exams Announcement! 🎓",
+  "content": "Attention students! The Modular Exams are scheduled to begin soon. Please take note of the following details:\n\n📅 Exam Dates: 10/6/25\n🕒 Time: On Class Timing\n\n🔹 Ensure timely preparation for each module\n🔹 Follow the exam guidelines strictly\n🔹 Bring necessary materials (ID card, stationery, etc.)\n🔹 Check the exam schedule for your respective subjects\n\nBest of luck to all students! Prepare well and give your best! ✨📚\n\nFor any queries, contact: SRO",
+  "postedBy": {
+    "$oid": "67d422faccba3c46766e5187"
+  },
+  "createdAt": {
+    "$date": "2025-03-17T11:07:40.512Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-17T11:07:40.512Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d802c3b4c535bd5c54df4f"
+  },
+  "title": "📢 Semester End Exams Announcement! 🎓",
+  "content": "Dear Students,\n\nThe Semester End Exams are approaching! Please be prepared and take note of the following details:\n\n📅 Exam Dates: 12/6/25\n🕒 Time: 1pm - 4pm\n\n🔹 Check the official exam timetable for your subjects.\n🔹 Ensure you carry your student ID and necessary materials.\n🔹 Arrive at the exam hall at least 15 minutes early.\n🔹 Follow all exam guidelines and maintain discipline.\n\nWishing you all the best for your exams! 📖✨\n\nFor any queries, contact: SRO",
+  "postedBy": {
+    "$oid": "67d422faccba3c46766e5187"
+  },
+  "createdAt": {
+    "$date": "2025-03-17T11:08:51.265Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-17T11:08:51.265Z"
+  },
+  "__v": 0
+}]

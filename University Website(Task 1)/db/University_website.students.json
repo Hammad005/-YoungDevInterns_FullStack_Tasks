@@ -1,0 +1,738 @@
+[{
+  "_id": {
+    "$oid": "67d56b5bf489e6046172a86f"
+  },
+  "name": "Moiz Raza",
+  "email": "moiz@gmail.com",
+  "password": "$2b$10$CIP9YEMEyqy5G3ELo/y5Mee4gOwFqvAjl80gIPi2BvPHkrSUGKTbm",
+  "courses": [
+    {
+      "courseId": {
+        "$oid": "67d6b2a000eab435bcf46860"
+      },
+      "assignedBy": {
+        "$oid": "67d422faccba3c46766e5187"
+      },
+      "_id": {
+        "$oid": "67d7fbeac280a7a540577aa4"
+      },
+      "createdAt": {
+        "$date": "2025-03-17T10:39:38.293Z"
+      }
+    },
+    {
+      "courseId": {
+        "$oid": "67d6b24400eab435bcf4685d"
+      },
+      "assignedBy": {
+        "$oid": "67d6a976936495d046c28bcd"
+      },
+      "_id": {
+        "$oid": "67d7fc31c280a7a540577c1e"
+      },
+      "createdAt": {
+        "$date": "2025-03-17T10:40:49.890Z"
+      }
+    },
+    {
+      "courseId": {
+        "$oid": "67d6b2c500eab435bcf46863"
+      },
+      "assignedBy": {
+        "$oid": "67d6aa15936495d046c28bdd"
+      },
+      "_id": {
+        "$oid": "67d7fe89b4c535bd5c54d60f"
+      },
+      "createdAt": {
+        "$date": "2025-03-17T10:50:49.685Z"
+      }
+    },
+    {
+      "courseId": {
+        "$oid": "67d6b2de00eab435bcf46876"
+      },
+      "assignedBy": {
+        "$oid": "67d6aa87936495d046c28be1"
+      },
+      "_id": {
+        "$oid": "67d7ff5ab4c535bd5c54d8a1"
+      },
+      "createdAt": {
+        "$date": "2025-03-17T10:54:18.971Z"
+      }
+    },
+    {
+      "courseId": {
+        "$oid": "67d4aa592ba83337afb65fa7"
+      },
+      "assignedBy": {
+        "$oid": "67d40e60ccba3c46766e502e"
+      },
+      "_id": {
+        "$oid": "67d7fffab4c535bd5c54dacc"
+      },
+      "createdAt": {
+        "$date": "2025-03-17T10:56:58.295Z"
+      }
+    },
+    {
+      "courseId": {
+        "$oid": "67d8009bb4c535bd5c54dbbc"
+      },
+      "assignedBy": {
+        "$oid": "67d0523ec25316b36633ce36"
+      },
+      "_id": {
+        "$oid": "67d800abb4c535bd5c54dc0d"
+      },
+      "createdAt": {
+        "$date": "2025-03-17T10:59:55.942Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-03-15T11:58:19.316Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-17T10:59:55.944Z"
+  },
+  "__v": 6
+},
+{
+  "_id": {
+    "$oid": "67d56bbaf489e6046172a892"
+  },
+  "name": "Anas Khan Lodhi",
+  "email": "anas@gmail.com",
+  "password": "$2b$10$Y89Hmj7sjX9JyDOmJsVjy.90MP3COcH3y6YDsOyV.TLPFJFNn..zC",
+  "courses": [
+    {
+      "courseId": {
+        "$oid": "67d4aa592ba83337afb65fa7"
+      },
+      "assignedBy": {
+        "$oid": "67d422faccba3c46766e5187"
+      },
+      "_id": {
+        "$oid": "67d7fbe2c280a7a540577a7b"
+      },
+      "createdAt": {
+        "$date": "2025-03-17T10:39:30.477Z"
+      }
+    },
+    {
+      "courseId": {
+        "$oid": "67d6b2a000eab435bcf46860"
+      },
+      "assignedBy": {
+        "$oid": "67d6a976936495d046c28bcd"
+      },
+      "_id": {
+        "$oid": "67d7fc2bc280a7a540577be8"
+      },
+      "createdAt": {
+        "$date": "2025-03-17T10:40:43.282Z"
+      }
+    },
+    {
+      "courseId": {
+        "$oid": "67d6b2de00eab435bcf46876"
+      },
+      "assignedBy": {
+        "$oid": "67d6aa15936495d046c28bdd"
+      },
+      "_id": {
+        "$oid": "67d7fe80b4c535bd5c54d5c6"
+      },
+      "createdAt": {
+        "$date": "2025-03-17T10:50:40.803Z"
+      }
+    },
+    {
+      "courseId": {
+        "$oid": "67d6b24400eab435bcf4685d"
+      },
+      "assignedBy": {
+        "$oid": "67d6aa87936495d046c28be1"
+      },
+      "_id": {
+        "$oid": "67d7ff50b4c535bd5c54d84e"
+      },
+      "createdAt": {
+        "$date": "2025-03-17T10:54:08.999Z"
+      }
+    },
+    {
+      "courseId": {
+        "$oid": "67d6b2c500eab435bcf46863"
+      },
+      "assignedBy": {
+        "$oid": "67d6a9bf936495d046c28bd5"
+      },
+      "_id": {
+        "$oid": "67d7ffe4b4c535bd5c54da41"
+      },
+      "createdAt": {
+        "$date": "2025-03-17T10:56:36.651Z"
+      }
+    },
+    {
+      "courseId": {
+        "$oid": "67d8009bb4c535bd5c54dbbc"
+      },
+      "assignedBy": {
+        "$oid": "67d422faccba3c46766e5187"
+      },
+      "_id": {
+        "$oid": "67d80232b4c535bd5c54de92"
+      },
+      "createdAt": {
+        "$date": "2025-03-17T11:06:26.465Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-03-15T11:59:54.532Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-17T11:06:26.467Z"
+  },
+  "__v": 6
+},
+{
+  "_id": {
+    "$oid": "67d6ab4000eab435bcf46731"
+  },
+  "name": "Yaseen",
+  "email": "yaseen@gmail.com",
+  "password": "$2b$10$SOaRZawFSOGHD0FMmr5CIukcy.61JQpz68MtSgSe21nkNLtLUoDba",
+  "courses": [
+    {
+      "courseId": {
+        "$oid": "67d6b24400eab435bcf4685d"
+      },
+      "assignedBy": {
+        "$oid": "67d422faccba3c46766e5187"
+      },
+      "_id": {
+        "$oid": "67d7fbdac280a7a540577a53"
+      },
+      "createdAt": {
+        "$date": "2025-03-17T10:39:22.773Z"
+      }
+    },
+    {
+      "courseId": {
+        "$oid": "67d6b2a000eab435bcf46860"
+      },
+      "assignedBy": {
+        "$oid": "67d6aa15936495d046c28bdd"
+      },
+      "_id": {
+        "$oid": "67d7fe75b4c535bd5c54d584"
+      },
+      "createdAt": {
+        "$date": "2025-03-17T10:50:29.539Z"
+      }
+    },
+    {
+      "courseId": {
+        "$oid": "67d6b2c500eab435bcf46863"
+      },
+      "assignedBy": {
+        "$oid": "67d6aa87936495d046c28be1"
+      },
+      "_id": {
+        "$oid": "67d7ff49b4c535bd5c54d803"
+      },
+      "createdAt": {
+        "$date": "2025-03-17T10:54:01.492Z"
+      }
+    },
+    {
+      "courseId": {
+        "$oid": "67d4aa592ba83337afb65fa7"
+      },
+      "assignedBy": {
+        "$oid": "67d6a9bf936495d046c28bd5"
+      },
+      "_id": {
+        "$oid": "67d7ff7eb4c535bd5c54d968"
+      },
+      "createdAt": {
+        "$date": "2025-03-17T10:54:54.651Z"
+      }
+    },
+    {
+      "courseId": {
+        "$oid": "67d6b2de00eab435bcf46876"
+      },
+      "assignedBy": {
+        "$oid": "67d6a9bf936495d046c28bd5"
+      },
+      "_id": {
+        "$oid": "67d7ff81b4c535bd5c54d971"
+      },
+      "createdAt": {
+        "$date": "2025-03-17T10:54:57.903Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-03-16T10:43:12.368Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-17T10:54:57.904Z"
+  },
+  "__v": 5
+},
+{
+  "_id": {
+    "$oid": "67d6ab5100eab435bcf46735"
+  },
+  "name": "Somnath",
+  "email": "somnath@gmail.com",
+  "password": "$2b$10$UXbwg/SMEKEBjLH1e6CL/exCEM1Z9EkRmDhzet/6cdAN4YRCZTMkK",
+  "courses": [
+    {
+      "courseId": {
+        "$oid": "67d4aa592ba83337afb65fa7"
+      },
+      "assignedBy": {
+        "$oid": "67d422faccba3c46766e5187"
+      },
+      "_id": {
+        "$oid": "67d7fbd2c280a7a540577a2c"
+      },
+      "createdAt": {
+        "$date": "2025-03-17T10:39:14.189Z"
+      }
+    },
+    {
+      "courseId": {
+        "$oid": "67d6b2c500eab435bcf46863"
+      },
+      "assignedBy": {
+        "$oid": "67d6a976936495d046c28bcd"
+      },
+      "_id": {
+        "$oid": "67d7fc22c280a7a540577bb3"
+      },
+      "createdAt": {
+        "$date": "2025-03-17T10:40:34.555Z"
+      }
+    },
+    {
+      "courseId": {
+        "$oid": "67d6b2a000eab435bcf46860"
+      },
+      "assignedBy": {
+        "$oid": "67d6aa15936495d046c28bdd"
+      },
+      "_id": {
+        "$oid": "67d7fe69b4c535bd5c54d53c"
+      },
+      "createdAt": {
+        "$date": "2025-03-17T10:50:17.954Z"
+      }
+    },
+    {
+      "courseId": {
+        "$oid": "67d6b2de00eab435bcf46876"
+      },
+      "assignedBy": {
+        "$oid": "67d6aa15936495d046c28bdd"
+      },
+      "_id": {
+        "$oid": "67d7fe6bb4c535bd5c54d544"
+      },
+      "createdAt": {
+        "$date": "2025-03-17T10:50:19.801Z"
+      }
+    },
+    {
+      "courseId": {
+        "$oid": "67d6b24400eab435bcf4685d"
+      },
+      "assignedBy": {
+        "$oid": "67d6aa87936495d046c28be1"
+      },
+      "_id": {
+        "$oid": "67d7ff36b4c535bd5c54d7b5"
+      },
+      "createdAt": {
+        "$date": "2025-03-17T10:53:42.416Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-03-16T10:43:29.927Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-17T10:53:42.418Z"
+  },
+  "__v": 58
+},
+{
+  "_id": {
+    "$oid": "67d6ab6500eab435bcf46739"
+  },
+  "name": "Hashir",
+  "email": "hashir@gmail.com",
+  "password": "$2b$10$NW7kK3ldkRJVW9OmZxdPvOgcJy.55rraVhl92jFsjuNGeBIybwwXK",
+  "courses": [
+    {
+      "courseId": {
+        "$oid": "67d6b2a000eab435bcf46860"
+      },
+      "assignedBy": {
+        "$oid": "67d422faccba3c46766e5187"
+      },
+      "_id": {
+        "$oid": "67d7fbc6c280a7a5405779ff"
+      },
+      "createdAt": {
+        "$date": "2025-03-17T10:39:02.452Z"
+      }
+    },
+    {
+      "courseId": {
+        "$oid": "67d6b24400eab435bcf4685d"
+      },
+      "assignedBy": {
+        "$oid": "67d422faccba3c46766e5187"
+      },
+      "_id": {
+        "$oid": "67d7fbc9c280a7a540577a05"
+      },
+      "createdAt": {
+        "$date": "2025-03-17T10:39:05.341Z"
+      }
+    },
+    {
+      "courseId": {
+        "$oid": "67d6b2de00eab435bcf46876"
+      },
+      "assignedBy": {
+        "$oid": "67d6a976936495d046c28bcd"
+      },
+      "_id": {
+        "$oid": "67d7fc1ac280a7a540577b7e"
+      },
+      "createdAt": {
+        "$date": "2025-03-17T10:40:26.430Z"
+      }
+    },
+    {
+      "courseId": {
+        "$oid": "67d6b2c500eab435bcf46863"
+      },
+      "assignedBy": {
+        "$oid": "67d6aa15936495d046c28bdd"
+      },
+      "_id": {
+        "$oid": "67d7fe60b4c535bd5c54d4fb"
+      },
+      "createdAt": {
+        "$date": "2025-03-17T10:50:08.911Z"
+      }
+    },
+    {
+      "courseId": {
+        "$oid": "67d4aa592ba83337afb65fa7"
+      },
+      "assignedBy": {
+        "$oid": "67d6aa87936495d046c28be1"
+      },
+      "_id": {
+        "$oid": "67d7ff28b4c535bd5c54d752"
+      },
+      "createdAt": {
+        "$date": "2025-03-17T10:53:28.225Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-03-16T10:43:49.399Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-17T10:53:28.226Z"
+  },
+  "__v": 35
+},
+{
+  "_id": {
+    "$oid": "67d6ab8c00eab435bcf4673d"
+  },
+  "name": "Shahwaiz",
+  "email": "shahwaiz@gmail.com",
+  "password": "$2b$10$mVf1bhBm8ON1kxBpaCNth.lnd.LTB./WbbdkBCcDsdz9ApeDKdn12",
+  "courses": [
+    {
+      "courseId": {
+        "$oid": "67d4aa592ba83337afb65fa7"
+      },
+      "assignedBy": {
+        "$oid": "67d422faccba3c46766e5187"
+      },
+      "_id": {
+        "$oid": "67d7fbb7c280a7a5405779d4"
+      },
+      "createdAt": {
+        "$date": "2025-03-17T10:38:47.902Z"
+      }
+    },
+    {
+      "courseId": {
+        "$oid": "67d6b2de00eab435bcf46876"
+      },
+      "assignedBy": {
+        "$oid": "67d422faccba3c46766e5187"
+      },
+      "_id": {
+        "$oid": "67d7fbbac280a7a5405779da"
+      },
+      "createdAt": {
+        "$date": "2025-03-17T10:38:50.831Z"
+      }
+    },
+    {
+      "courseId": {
+        "$oid": "67d6b2c500eab435bcf46863"
+      },
+      "assignedBy": {
+        "$oid": "67d6a976936495d046c28bcd"
+      },
+      "_id": {
+        "$oid": "67d7fc0fc280a7a540577b42"
+      },
+      "createdAt": {
+        "$date": "2025-03-17T10:40:15.738Z"
+      }
+    },
+    {
+      "courseId": {
+        "$oid": "67d6b2a000eab435bcf46860"
+      },
+      "assignedBy": {
+        "$oid": "67d6a9d5936495d046c28bd9"
+      },
+      "_id": {
+        "$oid": "67d7fe12b4c535bd5c54d3ae"
+      },
+      "createdAt": {
+        "$date": "2025-03-17T10:48:50.175Z"
+      }
+    },
+    {
+      "courseId": {
+        "$oid": "67d6b24400eab435bcf4685d"
+      },
+      "assignedBy": {
+        "$oid": "67d6aa15936495d046c28bdd"
+      },
+      "_id": {
+        "$oid": "67d7fe55b4c535bd5c54d4b7"
+      },
+      "createdAt": {
+        "$date": "2025-03-17T10:49:57.848Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-03-16T10:44:28.994Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-17T10:49:57.850Z"
+  },
+  "__v": 10
+},
+{
+  "_id": {
+    "$oid": "67d6abae00eab435bcf4674f"
+  },
+  "name": "Rafique",
+  "email": "rafique@gmail.com",
+  "password": "$2b$10$qqzL9j3S.G2cZ8B0LfD2SeAegthkDAZicq0oU6hpH749DD6znjGnW",
+  "courses": [
+    {
+      "courseId": {
+        "$oid": "67d6b2c500eab435bcf46863"
+      },
+      "assignedBy": {
+        "$oid": "67d6a976936495d046c28bcd"
+      },
+      "_id": {
+        "$oid": "67d7fb91c280a7a540577976"
+      },
+      "createdAt": {
+        "$date": "2025-03-17T10:38:09.901Z"
+      }
+    },
+    {
+      "courseId": {
+        "$oid": "67d6b24400eab435bcf4685d"
+      },
+      "assignedBy": {
+        "$oid": "67d6a976936495d046c28bcd"
+      },
+      "_id": {
+        "$oid": "67d7fb93c280a7a54057797c"
+      },
+      "createdAt": {
+        "$date": "2025-03-17T10:38:11.045Z"
+      }
+    },
+    {
+      "courseId": {
+        "$oid": "67d6b2de00eab435bcf46876"
+      },
+      "assignedBy": {
+        "$oid": "67d422faccba3c46766e5187"
+      },
+      "_id": {
+        "$oid": "67d7fba8c280a7a5405779b0"
+      },
+      "createdAt": {
+        "$date": "2025-03-17T10:38:32.942Z"
+      }
+    },
+    {
+      "courseId": {
+        "$oid": "67d6b2a000eab435bcf46860"
+      },
+      "assignedBy": {
+        "$oid": "67d6a9d5936495d046c28bd9"
+      },
+      "_id": {
+        "$oid": "67d7fe02b4c535bd5c54d356"
+      },
+      "createdAt": {
+        "$date": "2025-03-17T10:48:34.050Z"
+      }
+    },
+    {
+      "courseId": {
+        "$oid": "67d4aa592ba83337afb65fa7"
+      },
+      "assignedBy": {
+        "$oid": "67d6a9d5936495d046c28bd9"
+      },
+      "_id": {
+        "$oid": "67d7fe06b4c535bd5c54d366"
+      },
+      "createdAt": {
+        "$date": "2025-03-17T10:48:38.658Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-03-16T10:45:02.408Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-17T10:48:38.662Z"
+  },
+  "__v": 10
+},
+{
+  "_id": {
+    "$oid": "67d6abd700eab435bcf46753"
+  },
+  "name": "Hansraj",
+  "email": "hansraj@gmail.com",
+  "password": "$2b$10$bqPNFBtQI/YEAvk0CmQzG.PNGHeiGcoEsBwDYZ5PvEJdRccavDGAS",
+  "courses": [
+    {
+      "courseId": {
+        "$oid": "67d4aa592ba83337afb65fa7"
+      },
+      "assignedBy": {
+        "$oid": "67d422faccba3c46766e5187"
+      },
+      "_id": {
+        "$oid": "67d7fb52c280a7a54057790b"
+      },
+      "createdAt": {
+        "$date": "2025-03-17T10:37:06.523Z"
+      }
+    },
+    {
+      "courseId": {
+        "$oid": "67d6b24400eab435bcf4685d"
+      },
+      "assignedBy": {
+        "$oid": "67d6aa87936495d046c28be1"
+      },
+      "_id": {
+        "$oid": "67d7fb56c280a7a540577911"
+      },
+      "createdAt": {
+        "$date": "2025-03-17T10:37:10.868Z"
+      }
+    },
+    {
+      "courseId": {
+        "$oid": "67d6b2c500eab435bcf46863"
+      },
+      "assignedBy": {
+        "$oid": "67d422faccba3c46766e5187"
+      },
+      "_id": {
+        "$oid": "67d7fb74c280a7a540577923"
+      },
+      "createdAt": {
+        "$date": "2025-03-17T10:37:40.746Z"
+      }
+    },
+    {
+      "courseId": {
+        "$oid": "67d6b2de00eab435bcf46876"
+      },
+      "assignedBy": {
+        "$oid": "67d6a976936495d046c28bcd"
+      },
+      "_id": {
+        "$oid": "67d7fb87c280a7a54057794a"
+      },
+      "createdAt": {
+        "$date": "2025-03-17T10:37:59.527Z"
+      }
+    },
+    {
+      "courseId": {
+        "$oid": "67d6b2a000eab435bcf46860"
+      },
+      "assignedBy": {
+        "$oid": "67d6a976936495d046c28bcd"
+      },
+      "_id": {
+        "$oid": "67d7fb89c280a7a540577953"
+      },
+      "createdAt": {
+        "$date": "2025-03-17T10:38:01.050Z"
+      }
+    },
+    {
+      "courseId": {
+        "$oid": "67d8009bb4c535bd5c54dbbc"
+      },
+      "assignedBy": {
+        "$oid": "67d6a997936495d046c28bd1"
+      },
+      "_id": {
+        "$oid": "67d800f8b4c535bd5c54dca0"
+      },
+      "createdAt": {
+        "$date": "2025-03-17T11:01:12.928Z"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2025-03-16T10:45:43.339Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-17T11:01:12.930Z"
+  },
+  "__v": 22
+}]

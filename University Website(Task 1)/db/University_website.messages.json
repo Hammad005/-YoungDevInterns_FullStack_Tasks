@@ -1,0 +1,90 @@
+[{
+  "_id": {
+    "$oid": "67daa28f4d5ebccacfd62dd0"
+  },
+  "name": "Ahmed Ali",
+  "subject": "Admission Process Inquiry",
+  "message": "Hi, I’m interested in applying to your university. Could you provide details about the admission requirements and deadlines?",
+  "createdAt": {
+    "$date": "2025-03-19T10:55:11.798Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-19T10:55:11.798Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67daa2ff4d5ebccacfd62dd6"
+  },
+  "name": "Misbah Khan",
+  "subject": "Scholarship Opportunities",
+  "message": "Hello, I’d like to know if your university offers scholarships for international students. Please share the eligibility criteria and application process.",
+  "createdAt": {
+    "$date": "2025-03-19T10:57:03.116Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-19T10:57:03.116Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67daa31c4d5ebccacfd62dd8"
+  },
+  "name": "Moiz Raza",
+  "subject": "Request for Campus Tour",
+  "message": "Hi, I’d love to visit your campus and explore the facilities. Do you offer guided tours? If so, how can I schedule one?",
+  "createdAt": {
+    "$date": "2025-03-19T10:57:32.627Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-19T10:57:32.627Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67daa3584d5ebccacfd62dda"
+  },
+  "name": "Farooq Ahmed",
+  "subject": "Information on .NET",
+  "message": "Hello, I’m interested in the .NET program. Could you share details on the curriculum, faculty, and career prospects?",
+  "createdAt": {
+    "$date": "2025-03-19T10:58:32.577Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-19T10:58:32.577Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67daa37a4d5ebccacfd62ddc"
+  },
+  "name": "Fatima Ashraf",
+  "subject": "Accommodation Options",
+  "message": "Hi, I’m planning to enroll at your university. Do you provide on-campus housing, and what are the application steps for it?",
+  "createdAt": {
+    "$date": "2025-03-19T10:59:06.206Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-19T10:59:06.206Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67dd50ae5fe52b6f491c41ec"
+  },
+  "name": "Hammad",
+  "subject": "hi",
+  "message": "hi",
+  "createdAt": {
+    "$date": "2025-03-21T11:42:38.045Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-21T11:42:38.045Z"
+  },
+  "__v": 0
+}]

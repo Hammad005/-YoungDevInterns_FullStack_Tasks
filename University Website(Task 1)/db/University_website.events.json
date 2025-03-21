@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "67d872bd56c3841111453d4b"
+  },
+  "name": "🎮 GAME WARS 2025 – The Ultimate Esports Battle! 🚀🔥",
+  "description": "Get ready for the most thrilling gaming event of the year! GAME WARS 2025 is here to bring out the champion in you! Compete against the best, showcase your skills, and claim victory in an action-packed esports tournament! 🏆🎯\n\n🕹️ Tournament Categories:\n🎯 Battle Royale Showdown – Survive and dominate in an intense battle!\n🛡️ FPS Face-off – Test your shooting skills in top FPS titles!\n⚽ Sports Gaming Challenge – Compete in high-intensity sports simulation games!\n💡 Strategy & MOBA Wars – Outsmart and outplay your opponents!\n\n🎁 Prizes & Perks:\n🏅 Cash prizes, gaming gear & exclusive merch for winners!\n🎤 Live commentary & streaming for all matches!\n🤝 Meet and play with pro gamers & streamers!\n📜 Certificates for all participants!",
+  "date": "2025-03-18",
+  "time": "00:06",
+  "location": "At University ",
+  "createdAt": {
+    "$date": "2025-03-17T19:06:37.994Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-17T19:06:37.994Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d872f756c3841111453d4e"
+  },
+  "name": "🚀 CODEFEST 2025 – The Ultimate Coding Showdown! 💻🔥",
+  "description": "Are you ready to challenge yourself and compete against the best coders? CODEFEST 2025 is here to put your problem-solving skills to the test! Whether you're a beginner or a coding pro, this is your chance to showcase your talent and win amazing prizes! 🏆\n\n🏆 Event Categories:\n🔹 Speed Coding Challenge – Solve coding problems within a time limit!\n🔹 Hackathon – Build innovative solutions in a team!\n🔹 AI & ML Challenge – Show your AI/ML skills in action!\n🔹 Debugging Wars – Fix bugs faster than anyone else!\n\n🎁 Prizes & Perks:\n🏅 Exciting cash prizes & goodies for winners!\n💡 Networking with industry professionals & mentors\n📜 Certificates for all participants",
+  "date": "2025-03-18",
+  "time": "17:09",
+  "location": "Club Rd، opposite PIDC, Civil Lines, Karachi",
+  "createdAt": {
+    "$date": "2025-03-17T19:07:35.259Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-17T19:07:35.259Z"
+  },
+  "__v": 0
+}]

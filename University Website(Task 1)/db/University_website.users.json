@@ -1,0 +1,144 @@
+[{
+  "_id": {
+    "$oid": "67d0523ec25316b36633ce36"
+  },
+  "name": "Hammad",
+  "email": "hammad@gmail.com",
+  "password": "$2b$10$/9fbh3fGxf6M629iZsrkKOWYVpwOTKVuZLG0EtzShlIIZT3mQP0AS",
+  "role": "admin",
+  "createdAt": {
+    "$date": "2025-03-11T15:09:50.329Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-15T11:27:38.293Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d40e60ccba3c46766e502e"
+  },
+  "name": "Taha",
+  "email": "taha@gmail.com",
+  "password": "$2b$10$faDWW8UgqfKYXorbQ0PeHOyBmgWaQgAz9zUzMpyYVusdbfT4k/082",
+  "role": "faculty",
+  "createdAt": {
+    "$date": "2025-03-14T11:09:20.650Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-14T11:09:20.650Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d422faccba3c46766e5187"
+  },
+  "name": "Fatima",
+  "email": "fatima@gmail.com",
+  "password": "$2b$10$ApOMI3kx.r5k5G8gir3OkOTMfdEhpnXtyRWUON79h9GKtTyxkBUB.",
+  "role": "faculty",
+  "createdAt": {
+    "$date": "2025-03-14T12:37:14.677Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-14T12:37:14.677Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d6a976936495d046c28bcd"
+  },
+  "name": "waqas",
+  "email": "waqas@gmail.com",
+  "password": "$2b$10$jewwgV6W6TtQvG7uSBW9nOUJxSt3nytq7/MrV31SLTnUBEzUawToS",
+  "role": "faculty",
+  "createdAt": {
+    "$date": "2025-03-16T10:35:34.918Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-16T10:35:34.918Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d6a997936495d046c28bd1"
+  },
+  "name": "Mubashir",
+  "email": "mubashir@gmail.com",
+  "password": "$2b$10$oLEASkycdv85BDjHydHwmOZxTVzhyTXDPhIJAF6VtOIiy88XhMB9e",
+  "role": "faculty",
+  "createdAt": {
+    "$date": "2025-03-16T10:36:07.265Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-16T10:36:07.265Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d6a9bf936495d046c28bd5"
+  },
+  "name": "Shehryar",
+  "email": "shehryar@gmail.com",
+  "password": "$2b$10$lr0g8QDjSU5lt27kvuUv8uOZ2BzrYqqaLIkP7ZuAqB2FjSNDeQ7Si",
+  "role": "faculty",
+  "createdAt": {
+    "$date": "2025-03-16T10:36:47.845Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-16T10:36:47.845Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d6a9d5936495d046c28bd9"
+  },
+  "name": "Warda",
+  "email": "warda@gmail.com",
+  "password": "$2b$10$rmAZ4PBZ1U3t6.Lnvqqx0.RavfJMcQ5JDv/gmAqcKaMgIWLnRFTYm",
+  "role": "faculty",
+  "createdAt": {
+    "$date": "2025-03-16T10:37:09.228Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-16T10:37:09.228Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d6aa15936495d046c28bdd"
+  },
+  "name": "M.Ali",
+  "email": "ali@gmail.com",
+  "password": "$2b$10$k/lxT3974iN/01wxpHN4AO7XnFMCCnORJ4zCf8.escHlRZfHRtR7q",
+  "role": "faculty",
+  "createdAt": {
+    "$date": "2025-03-16T10:38:13.626Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-16T10:38:13.626Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d6aa87936495d046c28be1"
+  },
+  "name": "Rimsha",
+  "email": "rimsha@gmail.com",
+  "password": "$2b$10$DDZ3flwhciuRO.Cgt3AX/OOPqEXJ9saFP832e65iVKVsyMSOM0FtG",
+  "role": "faculty",
+  "createdAt": {
+    "$date": "2025-03-16T10:40:07.009Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-16T10:40:07.009Z"
+  },
+  "__v": 0
+}]
