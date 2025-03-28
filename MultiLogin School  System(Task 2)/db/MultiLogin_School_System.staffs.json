@@ -1,0 +1,237 @@
+[{
+  "_id": {
+    "$oid": "67e6f5836ce65003f53636fa"
+  },
+  "name": "Asghar Ali",
+  "email": "aliAsghar@gmail.com",
+  "role": "Principle",
+  "phone": "03275482546",
+  "schoolId": {
+    "$oid": "67e3e674337442ee1485f65b"
+  },
+  "createdAt": {
+    "$date": "2025-03-28T19:16:19.458Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-28T19:16:19.458Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e6f7f6a1b83a08d721783f"
+  },
+  "name": "Ibrahim",
+  "email": "ibrahim@gmail.com",
+  "role": "Incharge",
+  "phone": "03154924378",
+  "schoolId": {
+    "$oid": "67e3e674337442ee1485f65b"
+  },
+  "createdAt": {
+    "$date": "2025-03-28T19:26:46.487Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-28T20:40:51.613Z"
+  },
+  "__v": 0,
+  "subjects": "Pak Studies, Urdu, Islamiat"
+},
+{
+  "_id": {
+    "$oid": "67e6f8fea1b83a08d7217842"
+  },
+  "name": "Imran Ali Hashmi",
+  "email": "imranH@gmail.com",
+  "role": "Teacher",
+  "phone": "03318462832",
+  "schoolId": {
+    "$oid": "67e3e674337442ee1485f65b"
+  },
+  "createdAt": {
+    "$date": "2025-03-28T19:31:10.941Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-28T20:40:28.886Z"
+  },
+  "__v": 0,
+  "subjects": "Urdu, Islamiat, Math"
+},
+{
+  "_id": {
+    "$oid": "67e6f938a1b83a08d7217845"
+  },
+  "name": "Abida",
+  "email": "abida88@gmail.com",
+  "role": "Teacher",
+  "phone": "03426153826",
+  "schoolId": {
+    "$oid": "67e3e674337442ee1485f65b"
+  },
+  "createdAt": {
+    "$date": "2025-03-28T19:32:08.792Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-28T20:35:55.695Z"
+  },
+  "__v": 0,
+  "subjects": "Sindhi, Science "
+},
+{
+  "_id": {
+    "$oid": "67e6f9f6a1b83a08d7217848"
+  },
+  "name": "Shakila",
+  "email": "shakila80@gmail.com",
+  "role": "Teacher",
+  "phone": "03265187642",
+  "schoolId": {
+    "$oid": "67e3e674337442ee1485f65b"
+  },
+  "createdAt": {
+    "$date": "2025-03-28T19:35:18.996Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-28T20:35:37.735Z"
+  },
+  "__v": 0,
+  "subjects": "English, Social Studies, Science "
+},
+{
+  "_id": {
+    "$oid": "67e6fa63a1b83a08d7217857"
+  },
+  "name": "Ahad Ahmed",
+  "email": "ahmedA33@gmail.com",
+  "role": "Principle",
+  "phone": "03256814567",
+  "schoolId": {
+    "$oid": "67e53d515ac1e86f21309bf9"
+  },
+  "createdAt": {
+    "$date": "2025-03-28T19:37:07.887Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-28T19:37:07.887Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e6fb9ca1b83a08d721785a"
+  },
+  "name": "Urooj Raza",
+  "email": "uroojRaza393@gmail.com",
+  "role": "Incharge",
+  "phone": "03271526735",
+  "schoolId": {
+    "$oid": "67e53d515ac1e86f21309bf9"
+  },
+  "createdAt": {
+    "$date": "2025-03-28T19:42:20.376Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-28T20:43:04.054Z"
+  },
+  "__v": 0,
+  "subjects": "English, Biology, Chemistry, Computer Science "
+},
+{
+  "_id": {
+    "$oid": "67e6fc46a1b83a08d721785d"
+  },
+  "name": "Fahad Mehmood",
+  "email": "fMehmood997@gmail.com",
+  "role": "Teacher ",
+  "phone": "0332517382",
+  "schoolId": {
+    "$oid": "67e53d515ac1e86f21309bf9"
+  },
+  "createdAt": {
+    "$date": "2025-03-28T19:45:10.429Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-28T20:43:29.083Z"
+  },
+  "__v": 0,
+  "subjects": "Urdu, Islamiat, Math"
+},
+{
+  "_id": {
+    "$oid": "67e6fcc5a1b83a08d7217860"
+  },
+  "name": "Ameer Ul Hassan",
+  "email": "auHassan78@gmail.com",
+  "role": "Teacher ",
+  "phone": "03426184532",
+  "schoolId": {
+    "$oid": "67e53d515ac1e86f21309bf9"
+  },
+  "createdAt": {
+    "$date": "2025-03-28T19:47:17.217Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-28T20:43:43.711Z"
+  },
+  "__v": 0,
+  "subjects": "Sindhi"
+},
+{
+  "_id": {
+    "$oid": "67e6fd09a1b83a08d721786f"
+  },
+  "name": "Hafeez Khatri",
+  "email": "khatriHafeez55@gmail.com",
+  "role": "Principle",
+  "phone": "03325163452",
+  "schoolId": {
+    "$oid": "67e53b385ac1e86f21309b8e"
+  },
+  "createdAt": {
+    "$date": "2025-03-28T19:48:25.858Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-28T19:48:25.858Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e6fdf3a1b83a08d7217872"
+  },
+  "name": "Fozia Jamal",
+  "email": "JamalFozia05@gmail.com",
+  "role": "Incharge",
+  "phone": "03462168427",
+  "schoolId": {
+    "$oid": "67e53b385ac1e86f21309b8e"
+  },
+  "createdAt": {
+    "$date": "2025-03-28T19:52:19.282Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-28T20:41:50.936Z"
+  },
+  "__v": 0,
+  "subjects": "Biology, Computer Science, English, Urdu"
+},
+{
+  "_id": {
+    "$oid": "67e6fe68a1b83a08d7217875"
+  },
+  "name": "Umer Khan",
+  "email": "KhanUmer085@gmail.com",
+  "role": "Teacher",
+  "phone": "03372423609",
+  "schoolId": {
+    "$oid": "67e53b385ac1e86f21309b8e"
+  },
+  "createdAt": {
+    "$date": "2025-03-28T19:54:16.698Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-28T20:41:19.041Z"
+  },
+  "__v": 0,
+  "subjects": "Urdu, Chemistry, English"
+}]

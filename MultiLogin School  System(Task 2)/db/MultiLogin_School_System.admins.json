@@ -1,0 +1,73 @@
+[{
+  "_id": {
+    "$oid": "67de9765fa5fb0f70879ebf1"
+  },
+  "name": "Hammad",
+  "email": "hammad@gmail.com",
+  "role": "admin",
+  "password": "$2b$10$QonI4j9O8YPdivMHmBkBz.YpCzZ1.2HxeIK2.WZ4mGRcV010IZw5e",
+  "createdAt": {
+    "$date": "2025-03-22T10:56:37.662Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-22T10:56:37.662Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e53114185511d4b7accba1"
+  },
+  "name": "Anwer Ali",
+  "email": "aliAnwer92@gmail.com",
+  "role": "schoolAdmin",
+  "schoolId": {
+    "$oid": "67e3e674337442ee1485f65b"
+  },
+  "password": "$2b$10$4LCX5mW5haw4Cg/F5jGacuJpp79479r0xkLWfgotrCQDCDS6/Ld5.",
+  "createdAt": {
+    "$date": "2025-03-27T11:05:56.268Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-27T11:05:56.268Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e53d175ac1e86f21309bf1"
+  },
+  "name": "Riaz Dhedhi",
+  "email": "riazDh342@gmail.com",
+  "role": "schoolAdmin",
+  "schoolId": {
+    "$oid": "67e53b385ac1e86f21309b8e"
+  },
+  "password": "$2b$10$EsCOwwHDlc8AboXZWwuVDuQvPCJL4bFWNN0DR/cqvhQ5cVqVcWt.u",
+  "createdAt": {
+    "$date": "2025-03-27T11:57:11.816Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-27T11:57:11.816Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67e53e375ac1e86f21309c12"
+  },
+  "name": "Imtiaz Momin",
+  "email": "imtiazM329@gmail.com",
+  "role": "schoolAdmin",
+  "schoolId": {
+    "$oid": "67e53d515ac1e86f21309bf9"
+  },
+  "password": "$2b$10$qjbilqX.DbJ3id2F7RFs0Ob5qraHthN2PMZo0o7CFLfIfA573otQm",
+  "createdAt": {
+    "$date": "2025-03-27T12:01:59.810Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-27T12:01:59.810Z"
+  },
+  "__v": 0
+}]

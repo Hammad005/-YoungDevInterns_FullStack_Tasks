@@ -1,0 +1,54 @@
+[{
+  "_id": {
+    "$oid": "67e3e674337442ee1485f65b"
+  },
+  "name": "White Rose Grammer School",
+  "address": "VX5W+W87, Baghdadi Basra Colony, Karachi, 74200",
+  "contact": "03275493658",
+  "createdAt": {
+    "$date": "2025-03-26T11:35:16.130Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-27T11:05:56.280Z"
+  },
+  "__v": 0,
+  "adminId": {
+    "$oid": "67e53114185511d4b7accba1"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e53b385ac1e86f21309b8e"
+  },
+  "name": "KMA Boys Secondary School",
+  "address": "VX4W+2M7, Moosa Lane Musa Lane, Karachi",
+  "contact": "03175329735",
+  "createdAt": {
+    "$date": "2025-03-27T11:49:12.681Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-27T11:57:11.818Z"
+  },
+  "__v": 0,
+  "adminId": {
+    "$oid": "67e53d175ac1e86f21309bf1"
+  }
+},
+{
+  "_id": {
+    "$oid": "67e53d515ac1e86f21309bf9"
+  },
+  "name": "Aga Khan Higher Secondary School",
+  "address": "VX3W+JFJ، Aga Khan Road, Kharadhar, Kharadar, Karachi",
+  "contact": "02132522439",
+  "createdAt": {
+    "$date": "2025-03-27T11:58:09.508Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-27T12:01:59.812Z"
+  },
+  "__v": 0,
+  "adminId": {
+    "$oid": "67e53e375ac1e86f21309c12"
+  }
+}]
